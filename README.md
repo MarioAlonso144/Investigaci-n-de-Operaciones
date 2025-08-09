@@ -1,1 +1,1 @@
-# Investigaci-n-de-Operaciones
+#Mineria_de_datos
